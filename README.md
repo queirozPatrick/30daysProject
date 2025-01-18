@@ -69,6 +69,49 @@ Cada arquivo do repositório é dedicado a um dia do cronograma, com o seguinte 
   - **Título**: Sistema de Cadastro Simples
   - **Descrição**: Um programa que permite o cadastro de até 5 pessoas, armazenando nome, idade e gênero. Em seguida, exibe todos os dados cadastrados.
 
+### **Dia 8: Arrays (Vetores)**
+- **Estudo**:
+  - Declaração, inicialização e iteração de arrays.
+- **Projeto**:
+  - **Título**: Ordenação de Números
+  - **Descrição**: Um programa que solicita ao usuário uma lista de 5 números e os ordena em ordem crescente.
+
+### **Dia 9: Strings**
+- **Estudo**:
+  - Declaração de strings.
+  - Funções: `strlen`, `strcpy`, `strcmp`.
+- **Projeto**:
+  - **Título**: Verificador de Palíndromos
+  - **Descrição**: Um programa que verifica se uma palavra fornecida pelo usuário é um palíndromo (ex.: "arara").
+
+### **Dia 10: Matrizes**
+- **Estudo**:
+  - Declaração, inicialização e iteração de matrizes.
+- **Projeto**:
+  - **Título**: Soma de Matrizes
+  - **Descrição**: Um programa que soma duas matrizes 2x2 fornecidas pelo usuário.
+
+### **Dia 11: Funções (1)**
+- **Estudo**:
+  - Declaração, parâmetros e retorno de valores em funções.
+- **Projeto**:
+  - **Título**: Calculadora Modular
+  - **Descrição**: Uma calculadora com funções separadas para cada operação básica.
+
+### **Dia 12: Funções (2) - Passagem por Referência**
+- **Estudo**:
+  - Uso de ponteiros (`*` e `&`) para modificar variáveis externas.
+- **Projeto**:
+  - **Título**: Troca de Valores
+  - **Descrição**: Um programa que troca o valor de duas variáveis usando uma função com passagem por referência.
+
+### **Dia 13: Ponteiros (1)**
+- **Estudo**:
+  - Declaração, inicialização e uso básico de ponteiros.
+- **Projeto**:
+  - **Título**: Endereços de Memória
+  - **Descrição**: Um programa que exibe os endereços de memória de variáveis e os valores armazenados.
+
 ---
 
 ## Como Contribuir
